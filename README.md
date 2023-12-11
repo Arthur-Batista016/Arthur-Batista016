@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Batista</h1>
-<h3 align="center">I actually study on Etec</h3>
+<h3 align="center">I´m actually studying on Etec HAS</h3>
 
 - 🔭 I’m currently working on **Pokedex**
 
