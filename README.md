@@ -1,15 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arthur Batista</h1>
-<h3 align="center">I´m actually studying on Etec HAS</h3>
-
-- 🔭 I’m currently working on **Pokedex**
-
-- 🌱 I’m currently learning **JS**
-
-- 👨‍💻 All of my projects are available at [@Arthur-Batista016](@Arthur-Batista016)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<pre><span class="pl-c">// a brief description:</span>
+<span class="pl-k">let</span> <span class="pl-s1">autista</span><span class="pl-kos"></span> <span class="pl-kos">{</span>
+<span class="pl-c1">name</span>: <span class="pl-s">"arthur"</span><span class="pl-kos">,</span>
+<span class="pl-c1">age</span>: <span class="pl-c1">16</span><span class="pl-kos">,</span>
+<span class="pl-c1">country</span>: <span class="pl-s">"Brazil"</span><span class="pl-kos">,</span>
+<span class="pl-c1">pronouns</span>: <span class="pl-s">"he/him"</span><span class="pl-kos">,</span>
+<span class="pl-c1">skills</span>: <span class="pl-kos">[</span><span class="pl-s">"HTML"</span><span class="pl-kos">,</span> <span class="pl-s">"CSS"</span><span class="pl-kos">,</span> <span class="pl-s">"Javascript"</span> <span class="pl-kos">]</span>
+<span class="pl-kos">}</span><span class="pl-kos">;</span></pre>
