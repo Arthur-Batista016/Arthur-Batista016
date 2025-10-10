@@ -9,7 +9,7 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="45" height="45" /> About Me:
-- 🏦 I'm Actually Studing System Development in Etec Horacio Augusto da Silveira (3/3)
+- 🏦 I'm Actually Studying System Development in Etec Horacio Augusto da Silveira (3/3)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔎 Looking for internship opportunities
 - 📖 I am currently workin on my TCC project - MajorBeat
