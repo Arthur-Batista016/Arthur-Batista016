@@ -2,7 +2,7 @@
 
 #### Contacts:
 <a href="https://www.linkedin.com/in/arthurbbatista/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="apoorvtyagi" height="50" width="30"/></a>&nbsp;
-<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="arthurbatista1800@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 <a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 
