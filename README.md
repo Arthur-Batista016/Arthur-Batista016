@@ -3,7 +3,7 @@
 #### Contacts:
 <a href="https://www.linkedin.com/in/arthurbbatista/" target="blank"><img align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="apoorvtyagi" height="50" width="30"/></a>&nbsp;
 <a href="mailto:arthurbatista1800@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="" target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/arth7r010/" target="blank"><img align="center" src="https://www.svgrepo.com/show/349410/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
