@@ -13,7 +13,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔎 Looking for internship opportunities
 - 📖 I am currently Studying Power Bi, React and Python
-- 💬 Talk to me about Java, .Net, new opportunities.
+- 💬 Talk to me about Software Devolpment in General.
 
 
 ---
