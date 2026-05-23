@@ -23,8 +23,10 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Batista016&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/Arthur-Batista016/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur-Batista016&show_icons=true&theme=react&bg_color=1F222E&text_color=F8F8F2)](https://github.com/Arthur-Batista016)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Arthur-Batista016/Arthur-Batista016/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Arthur-Batista016/Arthur-Batista016/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
 
 
 ## My Skills
