@@ -32,7 +32,7 @@
 
 <br>
 
-About Me:
+## About Me
 - 🏦 I'm Actually Studying Software Engineering in ENIAC University (1/4) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔎 Looking for internship opportunities
 - 📖 I am currently Studying Power Bi, React and Python
