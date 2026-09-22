@@ -33,10 +33,11 @@
 <br>
 
 ## About Me
+- 💼 JR Support Analyst - Arius Sistemas
 - 🏦 I'm Actually Studying Software Engineering in ENIAC University (1/4) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔎 Looking for internship opportunities
-- 📖 I am currently Studying Power Bi, React and Python
-- 💬 Talk to me about Software Devolpment in General.
+- 🔎 Looking for Devolopment Opportunities
+- 📖 I am currently Studying Linux and Java 
+- 💬 Talk to me about Tecnology in General.
 
 
 
